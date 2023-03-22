@@ -54,3 +54,8 @@ Use your knowledge of logistic regression to complete the following steps:
 
 
 ## Analysis
+
+The report is to investigate the relationship between training imbalanced data and over sampling would have difference through logistic regression machine learning algorithm.
+
+Logistic regression is a supervised learning algorithm that is used to predict a categorical variable based on one or more predictor variables. The goal is to find the best set of coefficients that minimize the difference between the predicted attitude and the actual class labels.
+
